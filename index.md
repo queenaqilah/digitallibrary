@@ -6,7 +6,7 @@ Berikut ini adalah Koleksi yang dimiliki :
 
 ## Koleksi
 1. [Rahasia Kak Risa](ebook/klZzPVHYZPXpjYYyrYBxx6o86iJ9ElvBKgyeDfXw_11zon.pdf) - Ary Nilandari(2022)
-2. [Tarik! Dorong!](ebook/Tarik! Dorong!.pdf) - Puspa Im(2023)
+2. [Tarik! Dorong!](ebook/Tarik! Dorong!.pdf) - Puspa Im 2023
 3. [Menunggu Bulan Purnama](ebook/Menunggu Bulan Purnama.pdf) - Atifah Rabbani(2023)
 ---
 
