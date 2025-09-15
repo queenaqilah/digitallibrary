@@ -14,7 +14,7 @@ Berikut ini adalah Koleksi yang dimiliki :
 7. [Kucarikan Untukmu!](ebook/KucarikanUntukmu!.pdf) - Atik Setyowati (2023)
 8. [Ela si Kecil yang Baik Hati](ebook/ElasiKecilyangBaikHati.pdf) - Zuddi Ichwan Priyana (2022)
 9. [Astronaut Cilik](ebook/AstronautCilik.pdf) - Pritha Leestia (2023)
-10. [Alya dan Kacamata Kak Livi](ebook/Alya dan Kacamata Kak Livi.pdf) - Laila (2022)
+10. [Alya dan Kacamata Kak Livi](ebook/AlyadanKacamataKakLivi.pdf) - Laila (2022)
 11. [Beyond The Bookshelf (Virtual Reality As A Tool For Library)](ebook/BeyondThBookshelf(VirtualRealityAsAToolForLibrary).pdf) - Dr.Tengku Siti Meriam (2025)
 
 *Powered by Github Pages*
