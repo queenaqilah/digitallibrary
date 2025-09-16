@@ -19,7 +19,7 @@ Berikut ini adalah Koleksi yang dimiliki :
     
 ---
 
-[halaman1](webti/halaman1.html)
+<p><a href="webti/halaman1.html">Halaman 1</a>
 
 *Powered by Github Pages*
 
